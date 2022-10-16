@@ -5,3 +5,4 @@ scikit-learn
 pandas
 jupyter
 imbalanced-learn
+mlrose_hiive
